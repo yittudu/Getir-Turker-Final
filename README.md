@@ -10,3 +10,7 @@ Uygulama Geliştirilip Çalıştırılırken Kullanılan Androıd Studıo Sürü
 Uygulamanın Çalışır Halinin Video Linki:
 
 https://www.loom.com/share/5677e85ddfcb4fe58ebf49b3b68dd259?sid=c8fe9c53-984a-4dad-9b3d-bb78aca7b0aa
+
+Uygulamada Default branch olarak master seçili bırakıldı.
+
+![Ekran görüntüsü 2024-04-24 001940](https://github.com/yittudu/Getir-Turker-Final/assets/55927138/c932a2b6-70e8-437c-9e0a-f5b20050870f)
